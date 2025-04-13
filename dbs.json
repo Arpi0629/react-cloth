@@ -1,0 +1,75 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Men'S Anime Cartoon Print Hooded Sweatshirt",
+      "img": "img/item1.png",
+      "price": 20,
+      "category": "men boy"
+    },
+    {
+      "id": "2",
+      "title": "Men's Casual Black T-Shirt with Unique Anime",
+      "img": "img/item2.png",
+      "price": 10,
+      "category": "men boy"
+    },
+    {
+      "id": "3",
+      "title": "Casual Anime Graphic Hooded Sweatshirt",
+      "img": "img/item3.png",
+      "price": 15,
+      "category": "men boy"
+    },
+    {
+      "id": "4",
+      "title": "Casual Anime Graphic Hooded Sweatshirt",
+      "img": "img/item4.png",
+      "price": 25,
+      "category": "boy kids"
+    },
+    {
+      "id": "5",
+      "title": "Boys' Pink Anime-Inspired Hoodie",
+      "img": "img/item5.png",
+      "price": 20,
+      "category": "kids boy"
+    },
+    {
+      "id": "6",
+      "title": "Anime Eyes Print Girls Casual Graphic Hoodie Tops",
+      "img": "img/item6.png",
+      "price": 10,
+      "category": "kids woomen"
+    },
+    {
+      "id": "7",
+      "title": "Girls' Summer Comfort Tee - Casual",
+      "img": "img/item7.png",
+      "price": 15,
+      "category": "kids woomen"
+    },
+    {
+      "id": "8",
+      "title": "Girls' Casual Short Sleeve T-shirt ",
+      "img": "img/item8.png",
+      "price": 25,
+      "category": "woomen kids"
+    }
+  ],
+  "basket": [],
+  "orders": [
+    {
+      "0": {
+        "id": "015f",
+        "img": "img/item3.png",
+        "price": 15,
+        "title": "Casual Anime Graphic Hooded Sweatshirt",
+        "productId": "3",
+        "amount": 1,
+        "category": "kids"
+      },
+      "id": "5ff3"
+    }
+  ]
+}

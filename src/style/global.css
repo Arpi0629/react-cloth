@@ -1,0 +1,29 @@
+:root{
+    --font-family:"Abel";
+    --second-family: "Inter";
+    --color:#cecece;
+    --primary-color: #282828;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+html{
+    font-family: var(--font-family);
+    font-weight: 400;
+    height: 100%;
+}
+
+body{
+    height: 100%;
+    background-color:   #cecece;
+}
+
+#root{
+    height: 100%;
+}

@@ -1,0 +1,38 @@
+.container{
+    max-width: 1125px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px 0;
+    margin: 0 auto;
+}
+
+
+.button{
+    border-radius: 30px;
+    width: 150px;
+    height: 50px;
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link{
+    display: flex;
+    gap: 15px;
+    color: #fff;
+}
+
+.rightPart{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+hr{
+    max-width: 1135px;
+    height: 1px;
+    background: #f6f6f6;
+    margin: 0 auto;
+}

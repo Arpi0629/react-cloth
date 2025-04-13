@@ -1,0 +1,47 @@
+.item{
+    display: flex;
+    flex-direction: column;
+    max-width: 260px;
+    gap: 15px;
+}
+
+.img{
+    max-width: 260px;
+    max-height: 260px;
+}
+
+.price{
+    display: flex;
+    gap: 31px;
+    align-items: center;
+}
+
+.buttonAdd{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    width: 111px;
+    height: 40px;
+    background: #fff;
+}
+
+.buttonn{
+    border: none;
+    background: transparent;
+}
+
+.buttonOrdered{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    width: 111px;
+    height: 40px;
+    background-color: var(--primary-color);
+    color: #fff;
+}
